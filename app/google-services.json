@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177636723834",
+    "project_id": "videoplay-7336c",
+    "storage_bucket": "videoplay-7336c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177636723834:android:81a24aa10b61a2b229ffc3",
+        "android_client_info": {
+          "package_name": "com.dazngroup.videoplay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177636723834-c7npt29vca17vt7qokuu4en29m6ashuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACd7MnH5CtoNJA2tzVWBzr74lk6CMx78w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177636723834-c7npt29vca17vt7qokuu4en29m6ashuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
